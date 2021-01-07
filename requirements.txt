@@ -6,7 +6,7 @@ idna==2.8
 ifaddr==0.1.6
 itsdangerous==1.1.0
 Jinja2==2.10.1
-lxml==4.3.3
+lxml==4.6.2
 MarkupSafe==1.1.1
 pycryptodome==3.8.1
 requests==2.21.0
